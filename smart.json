@@ -1,0 +1,8 @@
+{
+  "name": "ga",
+  "description": "A smart package for adding Google Analytics",
+  "homepage": "https://github.com/possibilities/meteor-ga",
+  "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
+  "version": "0.0.1",
+  "git": "https://github.com/possibilities/meteor-ga.git"
+}
