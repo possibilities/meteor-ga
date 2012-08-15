@@ -2,4 +2,6 @@
 
 ## Usage
 
-    {{ga "UA-34025267-1"}}
+    <script>
+      new GA('UA-34025267-1');
+    </script>
